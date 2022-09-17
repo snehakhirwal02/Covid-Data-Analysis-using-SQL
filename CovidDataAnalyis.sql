@@ -120,7 +120,7 @@ where cd.continent is not null
 Select *, (RollingPeopleVaccinated/Population)*100
 From #PercentPopulationVaccinated
 
---Create view for later 
+--Creating view for later 
 Create View PercentagePopulationVaccinated as 
 Select cd.continent,cd.location,cd.date, cd.population,vc.new_vaccinations,
 SUM(CONVERT(int,vc.new_vaccinations)) OVER (Partition by cd.location order by cd.location,cd.date) as RollingPeopleVaccinated
