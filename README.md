@@ -4,6 +4,8 @@ COVID-19 took a toll on everyone's lives and was unfortunate that it took th liv
 
 ### Link to my visualization on Tableau: https://public.tableau.com/app/profile/sneha1997
 
+Questions:
+
 Q1 What are the percentage of deaths for the total number of the cases(who are infected) found?
 
 Q2 Which is the country with the highest infection rate in comparison to population?
