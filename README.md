@@ -4,9 +4,9 @@ COVID-19 took a toll on everyone's lives and was unfortunate that it took th liv
 
 ![This is an image](https://img.etimg.com/thumb/msid-90421246,width-650,imgsize-73184,,resizemode-4,quality-100/what-is-the-new-covid-19-variant-ba-2-and-will-it-cause-another-wave-of-infections-in-the-us.jpg)
 
-I analysed the data and came up with certain questions that I adressed. Later, used the obatined insights to visualize in Tableau.
-
 > Link to my visualization on Tableau: https://public.tableau.com/app/profile/sneha1997/viz/CovidDataAnalysis_16634506546260/Dashboard1?publish=yes
+
+I analysed the data and came up with certain questions that I adressed. Later, used the obatined insights to visualize in Tableau. 
 
 Questions:
 
