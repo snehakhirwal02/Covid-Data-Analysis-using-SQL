@@ -1,6 +1,6 @@
 # Covid-Data-Analysis-using-SQL
 
-COVID-19 took a toll on everyone's lives and was unfortunate that it took th lives of many people across the world. The thought behind choosing this dataset was to explore the data and take note of the countries which experience most number of deaths of the infected people and the perecentage of population who are affected and vaccinated to fight the virus. 
+COVID-19 took a toll on everyone's lives and was unfortunate that it took the lives of many people across the world. The thought behind choosing this dataset was to explore the data and take note of the countries which experience most number of deaths of the infected people and the perecentage of population who are affected and vaccinated to fight the virus. 
 
 ![This is an image](https://img.etimg.com/thumb/msid-90421246,width-650,imgsize-73184,,resizemode-4,quality-100/what-is-the-new-covid-19-variant-ba-2-and-will-it-cause-another-wave-of-infections-in-the-us.jpg)
 
